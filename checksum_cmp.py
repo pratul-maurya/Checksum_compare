@@ -2,7 +2,7 @@ import sys
 import hashlib
   
  
-def hashfile_sha256(file):
+def hashfile_sha256(file): """Program to calculate the md5 and sha256 hash"""
 
   
   
