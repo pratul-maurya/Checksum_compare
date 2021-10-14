@@ -1,0 +1,5 @@
+b''b'Tracing route to vitbhopal.ac.in [182.73.197.20]'b'over a maximum of 30 hops:'b''b'  
+  
+4    48 ms    45 ms    45 ms  116.119.44.155 'b'  
+5     *        *        *     Request timed out.'b'  
+6    48 ms    48 ms    49 ms  182.73.197.20 'b''b'Trace complete.'b''b''b'Tracing route to vitbhopal.ac.in [182.73.197.20]'b'over a maximum of 30 hops:'b''b'  1     4 ms     1 ms     1 ms  dsldevice.lan [192.168.1.1] 'b'  2     5 ms     8 ms     8 ms  abts-mh-dynamic-001.33.169.122.airtelbroadband.in [122.169.33.1] 'b'  3     5 ms     7 ms     5 ms  125.16.217.229 'b'  4    61 ms    65 ms    61 ms  116.119.44.157 'b'  5    67 ms    64 ms    65 ms  182.73.197.20 'b'  6    67 ms    67 ms    65 ms  182.73.197.20 'b''b'Trace complete.'b''

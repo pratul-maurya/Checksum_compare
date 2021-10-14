@@ -1,0 +1,4 @@
+b''b'Tracing route to e9566.dscb.akamaiedge.net [104.108.209.55]'b'over a maximum of 30 hops:'b''b'    
+3    10 ms    19 ms     6 ms  nsg-corporate-45.78.186.122.airtel.in [122.186.78.45] 'b'  
+4    14 ms    15 ms    17 ms  116.119.57.109 'b'  
+5    13 ms    12 ms    12 ms  a104-108-209-55.deploy.static.akamaitechnologies.com [104.108.209.55]
